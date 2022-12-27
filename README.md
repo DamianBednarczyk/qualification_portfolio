@@ -1,3 +1,5 @@
+# Certificates
+[https://www.linkedin.com/in/damian-bednarczyk|https://www.linkedin.com/in/damian-bednarczyk/]
 # 2016 (javascript, excel)
 <br>
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201611_javascript_altkom.png" alt="certificate">
