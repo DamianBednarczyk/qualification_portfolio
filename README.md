@@ -1,12 +1,17 @@
 # Certificates
 [Linkedin](https://www.linkedin.com/in/damian-bednarczyk/)
 
-
-# 2023 (sql) //soon
-<br>
+[comment]: <> (<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link">)
+<!-- <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link"> -->
+{::comment}
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link">
-<br>
+{:/comment}
+{::comment}comment text{:/comment}
 
+# 2023 (sql)
+<br>
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202301_postgresql_window_functions_datacamp.png" alt="wrong certificate link">
+<br>
 # 2022 (sql, azure, data science)
 <br>
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202212_joining_data_sql_datacamp.png" alt="wrong certificate link">
