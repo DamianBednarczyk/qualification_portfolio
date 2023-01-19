@@ -2,6 +2,7 @@
 [Linkedin](https://www.linkedin.com/in/damian-bednarczyk/)
 
 Technologie, w których pracuje/znam na przyzwoitym poziomie: SQL, Excel, Jira...
+<br>
 Technologie, w których pracowałem kiedyś/znam na poziomie początkującym: VBA, HTML, CSS...
 
 [comment]: <> (<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link">)
