@@ -14,6 +14,8 @@ Technologie, w których pracowałem kiedyś/znam na poziomie początkującym: VB
 
 # 2023 (sql)
 <br>
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_02_certificate_sql_functions_manipulating_datacamp.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_02_certificate_skill_track_sql_fund_datacamp.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202301_postgresql_window_functions_datacamp.png" alt="wrong certificate link">
 <br>
 # 2022 (sql, azure, data science)
