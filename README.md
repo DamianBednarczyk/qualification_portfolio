@@ -3,6 +3,7 @@
 
 Technologie i metody w których pracuję/znam na przyzwoitym poziomie: SQL, Excel, Jira, projekty kaskadowe i zwinne
 <br>
+<br>
 Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie podstawowym: VBA, HTML, CSS, inżynieria wymagań
 
 [comment]: <> (<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link">)
@@ -16,6 +17,7 @@ Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie
 <br>
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_scrum_master_akademia.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_scrum_master_akademia_feedback.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_04_certificate_intro_chatgpt_datacamp.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_02_certificate_sql_functions_manipulating_datacamp.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_02_certificate_skill_track_sql_fund_datacamp.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202301_postgresql_window_functions_datacamp.png" alt="wrong certificate link">
@@ -37,6 +39,7 @@ Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie
 <br>
 # 2020 (google analytics)
 <br>
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202012_akademia_inwestowania.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202001_google_analytics_beginner.png" alt="wrong certificate link">
 <br>
 # 2019 (e.g.: vba, data science, soft skills)
@@ -44,8 +47,10 @@ Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201911_service_design_gamma.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201911_agile_cooperation_gamma.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201910_pm_in_a_nutshell_absolvent_ubs.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201910_mindfullness.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201909_prosty_jezyk_ppp.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201908_excel_kaizen_inauka.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201906_excel_sredniozaawansowany_itbt.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201905_vba_altkom.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201905_ml_ai_dataworkshop.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201904_facylitacja_aib_.png" alt="wrong certificate link">
@@ -68,6 +73,8 @@ Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201711_html_fundamental_sololearn_1014-5266426.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201708_intro_sql_datacamp.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201707_sql_fundamental_sololearn_1060-5266426.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201706_bungee.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201706_spanish.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201705_vba_comarch.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201705_time_mgmt_aib.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201705_sql_comarch.png" alt="wrong certificate link">
@@ -77,4 +84,7 @@ Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie
 # 2016 (javascript)
 <br>
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201611_javascript_altkom.png" alt="wrong certificate link">
+# 2014 (finance)
+<br>
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201406_symfonia_finanse_ksiegowosc.png" alt="wrong certificate link">
 
