@@ -110,7 +110,7 @@ soft skills
 ai, data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201902_ml_ai_dataworkshop.png" alt="wrong certificate link">
 <br>
-# 2018 (e.g.: css, python, lean, sql, jacascript)
+# 2018 (e.g.: css, python, lean, sql, javascript)
 <br>
 soft skills
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201811_sila_nawykow_aib.png" alt="wrong certificate link">
