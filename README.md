@@ -16,7 +16,7 @@ if you are interested in a specific technology, press ctrl+f and search
 {:/comment}
 {::comment}comment text{:/comment}
 
-# 2023 (sql)
+# 2023
 <br>
 scrum, agile
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_scrum_master_akademia.png" alt="wrong certificate link">
