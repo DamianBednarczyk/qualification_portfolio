@@ -6,8 +6,8 @@ Feel free to visit my [Linkedin profile](https://www.linkedin.com/in/damian-bedn
 
 # Technologies and methods I work with:
 
-    - Decent knowledge: Excel, Jira, SQL, requirements engineering, waterfall project management.
-    - Practical/basic(previously used at work) knowledge: VBA, HTML, CSS, MS Project, agile  management, Python.
+- Decent knowledge: Excel, Jira, SQL, requirements engineering, waterfall project management.
+- Practical/basic(previously used at work) knowledge: VBA, HTML, CSS, MS Project, agile  management, Python.
 
 If you're looking for a specific technology, press Ctrl+F and search for it.
 
