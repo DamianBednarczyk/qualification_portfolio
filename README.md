@@ -1,13 +1,15 @@
 # Certificates
-[Linkedin](https://www.linkedin.com/in/damian-bednarczyk/)
+Below, you will find scans of my certificates and diplomas obtained over the last 10 years.
 
-Technologie i metody w których pracuję/znam na przyzwoitym poziomie: SQL, Excel, Jira, projekty kaskadowe i zwinne
-<br>
-<br>
-Umiejętności wykorzystywane kiedyś w pracy, które znam/pamiętam na poziomie podstawowym: VBA, HTML, CSS, inżynieria wymagań
-<br>
-<br>
-if you are interested in a specific technology, press ctrl+f and search
+# LinkedIn
+Feel free to visit my [Linkedin profile](https://www.linkedin.com/in/damian-bednarczyk/) for more details about my professional background.
+
+# Technologies and methods I work with:
+
+    - Decent knowledge: Excel, Jira, SQL, requirements engineering, waterfall project management.
+    - Practical/basic(previously used at work) knowledge: VBA, HTML, CSS, MS Project, agile  management, Python.
+
+If you're looking for a specific technology, press Ctrl+F and search for it.
 
 [comment]: <> (<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link">)
 <!-- <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/xxx.png" alt="wrong certificate link"> -->
