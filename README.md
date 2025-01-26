@@ -56,7 +56,7 @@ azure, cloud
 ai, data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202205_understanding_data_science_datacamp.png" alt="wrong certificate link">
 <br>
-# 2021 (sql. uml)
+# 2021 (sql, uml)
 
 <br>
 sql, data
