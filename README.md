@@ -1,11 +1,10 @@
-# Certificates
-Below, you will find scans of my certificates and diplomas obtained over the last 10 years.
+## Certificates
+Below, you will find scans of my certificates and diplomas obtained over the last 10 years, sorted by year, with each year indicating the areas I focused on during that time.
 
-# LinkedIn
+## LinkedIn
 Feel free to visit my [Linkedin profile](https://www.linkedin.com/in/damian-bednarczyk/) for more details about my professional background.
 
-# Technologies and methods I work with:
-
+## Technologies and methods I work with:
 - Decent knowledge: Excel, Jira, SQL, requirements engineering, waterfall project management.
 - Practical/basic(previously used at work) knowledge: VBA, HTML, CSS, MS Project, agile  management, Python.
 
@@ -18,7 +17,7 @@ If you're looking for a specific technology, press Ctrl+F and search for it.
 {:/comment}
 {::comment}comment text{:/comment}
 
-# 2023
+# 2023 (agile, data)
 <br>
 scrum, agile
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_scrum_master_akademia.png" alt="wrong certificate link">
@@ -77,7 +76,7 @@ finance, investing
 data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202001_google_analytics_beginner.png" alt="wrong certificate link">
 <br>
-# 2019 (e.g.: vba, data science, soft skills)
+# 2019 (vba, data science, soft skills and more)
 <br>
 service design
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201911_service_design_gamma.png" alt="wrong certificate link">
@@ -112,7 +111,7 @@ soft skills
 ai, data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201902_ml_ai_dataworkshop.png" alt="wrong certificate link">
 <br>
-# 2018 (e.g.: css, python, lean, sql, javascript)
+# 2018 (css, python, lean, sql, javascript and more)
 <br>
 soft skills
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201811_sila_nawykow_aib.png" alt="wrong certificate link">
@@ -141,7 +140,7 @@ sql, data
 css
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201804_css_fundamental_sololearn_1023-5266426.png" alt="wrong certificate link">
 <br>
-# 2017 (e.g.: excel, vba, sql, html)
+# 2017 (excel, vba, sql, html and more)
 <br>
 html
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_201711_html_fundamental_sololearn_1014-5266426.png" alt="wrong certificate link">
