@@ -17,6 +17,12 @@ If you're looking for a specific technology, press Ctrl+F and search for it.
 {:/comment}
 {::comment}comment text{:/comment}
 
+# 2024 (data)
+<br>
+data, excel, sql, python, tableau
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2024_03_certificate_data_analyst_coders_lab.png" alt="wrong certificate link">
+<br>
+
 # 2023 (agile, data)
 <br>
 scrum, agile
