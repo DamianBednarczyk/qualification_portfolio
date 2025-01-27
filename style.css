@@ -1,9 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 body {
+  background: url(../imagess/background.png) #cc2200;
   background-color: #cc2200;
   background-color: rgb(204, 34, 0);  
 }
 
 header {
+  background: url(../imagess/background.png) #cc2200;
   background-color: #cc2200;
   background-color: rgb(204, 34, 0);  
 }
