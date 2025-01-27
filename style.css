@@ -3,14 +3,14 @@
 
 @import "{{ site.theme }}";
 
-!important body {
-  background: url(../imagess/background.png) #cc2200;
-  background-color: #cc2200;
-  background-color: rgb(204, 34, 0);  
+body {
+  background: url(../imagess/background.png) #cc2200 !important;
+  background-color: #cc2200 !important;
+  background-color: rgb(204, 34, 0) !important;  
 }
 
 !important header {
-  background: url(../imagess/background.png) #cc2200;
-  background-color: #cc2200;
-  background-color: rgb(204, 34, 0);  
+  background: url(../imagess/background.png) #cc2200 !important;
+  background-color: #cc2200 !important;
+  background-color: rgb(204, 34, 0) !important;  
 }
