@@ -29,6 +29,9 @@ scrum, agile
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_scrum_master_akademia.png" alt="wrong certificate link">
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_scrum_master_akademia_feedback.png" alt="wrong certificate link">
 <br>
+power bi
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_05_certificate_intro_power_bi_datacamp.png" alt="wrong certificate link">
+<br>
 chat gpt
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/2023_04_certificate_intro_chatgpt_datacamp.png" alt="wrong certificate link">
 <br>
@@ -45,13 +48,13 @@ sql, data
 
 <br>
 sql, data
-<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202212_joining_data_sql_datacamp.png" alt="wrong certificate link">
-<br>
-sql, data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202212_intermediate_sql_datacamp.png" alt="wrong certificate link">
 <br>
 sql, data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202212_data_manipulation_sql_datacamp.png" alt="wrong certificate link">
+<br>
+sql, data
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202212_joining_data_sql_datacamp.png" alt="wrong certificate link">
 <br>
 sql, data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/main/certs_pngs/certificate_202210_introduction_sql_datacamp.png" alt="wrong certificate link">
