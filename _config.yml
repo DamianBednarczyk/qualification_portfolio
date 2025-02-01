@@ -3,10 +3,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-remote-theme
 #
-custom_css: "/custom.css" 
+custom_css: "custom.css" 
 plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-assets
-
-
 
 
