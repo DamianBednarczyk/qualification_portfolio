@@ -4,7 +4,7 @@
 
 // Podstawowe style dla całego ciała strony
 body {
-  background: url(../images/background_brake.png) #cc2200 !important;
+
   background-color: #f4f4f4;  // Jasnoszare tło strony
   font-family: 'Helvetica', 'Arial', sans-serif;  // Zmiana czcionki
   font-size: 18px;  // Ustawienie rozmiaru czcionki
@@ -29,7 +29,7 @@ header {
 // Linki w nagłówku
 header a {
   background: url(../images/background_brake.png) #cc2200 !important;
-  color: #cc2200;  // Kolor tekstu linków
+  color: #dd2200;  // Kolor tekstu linków
   text-decoration: none;  // Usunięcie podkreślenia
   padding: 5px 10px;  // Marginesy wewnętrzne dla linków
 }
