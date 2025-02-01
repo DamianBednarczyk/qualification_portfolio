@@ -1,17 +1,14 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 body {
-  background: url(../imagess/background.png) #cc2200 !important;
-  background-color: #cc2200 !important;
-  background-color: rgb(204, 34, 0) !important;  
-  font-size:40px !important; 
+  background: url(../images/background.png) #cc2200 !important;
+  background-color: rgb(204, 34, 0) !important;  // Jedna wersja
+  font-size: 40px !important;
 }
 
-!important header {
-  background: url(../imagess/background.png) #cc2200 !important;
-  background-color: #cc2200 !important;
-  background-color: rgb(204, 34, 0) !important;  
-  font-size:40px !important; 
+header {
+  background: url(../images/background.png) #cc2200 !important;
+  background-color: rgb(204, 34, 0) !important;
+  font-size: 40px !important;
 }
