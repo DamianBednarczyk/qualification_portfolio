@@ -4,7 +4,7 @@
 
 // Podstawowe style dla całego ciała strony
 body {
-  background: url(../images/background_brake.png) #cc2200;
+  background: url(../images/background_brake.png) #cc2200 !important;
   background-color: #f4f4f4;  // Jasnoszare tło strony
   font-family: 'Helvetica', 'Arial', sans-serif;  // Zmiana czcionki
   font-size: 18px;  // Ustawienie rozmiaru czcionki
@@ -16,8 +16,8 @@ body {
 
 // Stylizacja nagłówka
 header {
-  background: url(../images/background_brake.png) #cc2200;
-  background-color: #cc2200;  // Zielony kolor tła nagłówka
+  background: url(../images/background_brake.png) #cc2200 !important;
+  background-color: #cc2200 !important;
   color: white;  // Kolor tekstu w nagłówku
   padding: 20px;  // Odstępy wewnętrzne
   text-align: center;  // Wyśrodkowanie tekstu
@@ -27,7 +27,7 @@ header {
 
 // Linki w nagłówku
 header a {
-  background: url(../images/background_brake.png) #cc2200;
+  background: url(../images/background_brake.png) #cc2200 !important;
   color: #cc2200;  // Kolor tekstu linków
   text-decoration: none;  // Usunięcie podkreślenia
   padding: 5px 10px;  // Marginesy wewnętrzne dla linków
