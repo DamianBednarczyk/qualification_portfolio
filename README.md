@@ -19,7 +19,7 @@ If you're looking for a specific technology, press Ctrl+F and search for it.
 
 # 2025 (data)
 <br>
-data, excel, sql, python, tableau
+data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_01_certificate_understand_data_engineering_datacamp.png" alt="wrong certificate link">
 <br>
 
