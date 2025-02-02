@@ -1,3 +1,4 @@
+## Certifications Portfolio
 Below, you will find scans of my certificates and diplomas obtained over the last 10 years, sorted by year, with each year indicating the areas I focused on during that time.
 
 ## LinkedIn
