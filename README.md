@@ -17,8 +17,14 @@ If you're looking for a specific technology, press Ctrl+F and search for it.
 {:/comment}
 {::comment}comment text{:/comment}
 
-# 2025 (data) 
+# 2025 (data, ai) 
 
+<br>
+ai
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_09_certificate_ai_od_podstaw_pfr.png" alt="wrong certificate link">
+<br>
+ai 
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_08_certificate_understanding_ai_datacamp.png" alt="wrong certificate link">
 <br>
 data
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_04_certificate_associate_data_engineer_datacamp.png" alt="wrong certificate link">
