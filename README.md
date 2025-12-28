@@ -21,6 +21,22 @@ If you're looking for a specific technology, press Ctrl+F and search for it.
 
 <br>
 ai
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_11_certificate_ai_aideas.png" alt="wrong certificate link">
+<br>
+power point
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_10_certificate_power_point_comarch.png" alt="wrong certificate link">
+<br>
+OKR
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_10_certificate_okr_zarzadzanie_celami_udemy.png" alt="wrong certificate link">
+<br>
+ai
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_10_certificate_ai_umiejetnosci_jutra_google.png" alt="wrong certificate link">
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_10_certificate_ai_umiejetnosci_jutra_google_suplement.png" alt="wrong certificate link">
+<br>
+ai
+<img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_09_certificate_ai_leaders_udemy.png" alt="wrong certificate link">
+<br>
+ai
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_09_certificate_ai_od_podstaw_pfr.png" alt="wrong certificate link">
 <br>
 ai 
