@@ -21,10 +21,10 @@ If you're looking for a specific technology, press Ctrl+F and search for it.
 
 
 <br>
-ai
+KPI, strategy
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_12_certificate_building_kpis_for_data_driven_strategy_linkedin.png" alt="Professional certificate PNG">
 <br>
-ai
+business analysis 
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_12_certificate_analiza_biznesowa_inzynieria_wymagan_edusolution.png" alt="Professional certificate PNG">
 <br>
 ai
@@ -33,7 +33,7 @@ ai
 power point
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_10_certificate_power_point_comarch.png" alt="Professional certificate PNG">
 <br>
-OKR
+OKR, strategy
 <img src="https://raw.githubusercontent.com/DamianBednarczyk/qualification_portfolio/refs/heads/main/certs_pngs/2025_10_certificate_okr_zarzadzanie_celami_udemy.png" alt="Professional certificate PNG">
 <br>
 ai
